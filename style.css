@@ -11,12 +11,10 @@ body {
   }
   #header, #footer{
     background-color:rgba(0,0,0,0.5);
-
     text-align: center;
   }
   div	{
     text-align: left;
-
   }
   #content {
     width:600px;
@@ -34,7 +32,9 @@ body {
     border-radius: 20px;
     /*margin: 40px 0px 0px 0px;
     border: 7px black;
-    border-radius: 10px;*/
+    border-radius: 10px;
+    remove unused code
+    */
   }
   #footer {
     clear:both;
